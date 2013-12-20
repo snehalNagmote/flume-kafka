@@ -4,6 +4,8 @@ mvn clean package -Dmaven.test.skip=true
 
 
 
+
+
 Configuration of Kafka Sink
 ----------
 
