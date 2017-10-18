@@ -1,7 +1,7 @@
 To compile the package skip the tests 
 mvn clean package -Dmaven.test.skip=true
 
-
+Testing setup
 
 
 
